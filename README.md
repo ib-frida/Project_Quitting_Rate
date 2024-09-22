@@ -38,19 +38,3 @@ Una vez que los datos hayan sido procesados y analizados, se podrían llevar a c
 ## 8. Conclusión
 Este proyecto se enfocará en procesar y analizar datos sobre la deserción de empleados para identificar patrones y factores clave que contribuyen a la deserción laboral. Al desarrollar un modelo predictivo, las organizaciones podrán anticiparse a la pérdida de empleados clave y tomar medidas preventivas para mejorar la retención. Con un conjunto de datos procesado y un análisis en profundidad, será posible avanzar hacia estrategias más efectivas para gestionar el talento humano en las empresas.
 
-## 9. Entregables
-- **Código ejecutable en Google Colab que realice el procesamiento de datos**:  
-  [Google Colab](https://colab.research.google.com/drive/1tMtZIRYWY_damKkePn9W6CH8QxBExn-c?usp=sharing)
-  
-- **Documento en Google Docs o Word** que describa los pasos y resultados del procesamiento de datos.
-
-- **Presentación en PowerPoint** con un resumen de las técnicas aplicadas y los resultados obtenidos del procesamiento de los datos:  
-  [Canva Presentación](https://www.canva.com/design/DAGRLKpgWS8/vPeLmobrOA8gO5ik8-Ox-g/view?utm_content=DAGRLKpgWS8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
----
-
-### Instrucciones de uso:
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `employee_attrition_analysis.ipynb` en Google Colab para ejecutar el código de análisis de deserción.
-3. Revisa los documentos enlazados para obtener más información sobre el procesamiento de datos y las conclusiones.
-
