@@ -1,5 +1,7 @@
 # Análisis de Deserción de Empleados: Identificación de Factores Clave para Mejorar la Retención de Talento
 
+Proyecto realizado por: Vanina Sulca, Lesly Quezada y Frida Ibarra para la obtención del Diplomado en Data Science de BEDU.
+
 ## 1. Introducción
 En el entorno corporativo, el análisis de la deserción de empleados es crucial para comprender y mitigar el impacto que la pérdida de talento puede tener en las empresas. La deserción de empleados puede ser influenciada por diversos factores como la satisfacción laboral, el salario, el ambiente de trabajo y el desempeño. Este proyecto se centra en procesar un conjunto de datos sobre empleados para identificar patrones de deserción y analizar qué características influyen más en la salida de los empleados de la organización.
 
